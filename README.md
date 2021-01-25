@@ -1,3 +1,39 @@
+# 本ドキュメントについて
+
+## 概要
+本ドキュメントはマーケティング・オートメーションを実現するオープンソースのWebアプリケーション「Mautic」の
+インストール・各種設定などの基本操作を記載しています。
+
+オリジナルは英語であり、本ドキュメントは日本語訳版です。
+
+本ドキュメントはGithubにて公開しています。
+[GithubRepository][mautic-doc-s-github-ja]
+
+## 技術者向けドキュメントについて
+
+Mauticの詳細情報、API, WebHook, テーマ, プラグインの開発には[開発者向けドキュメント][developer-docs]を参照下さい。
+
+オリジナルの英語版のみであり、日本語版はまだ準備されておりません。
+
+### ライセンスについて
+本ドキュメントは オリジナル同様, [Apache 2.0**]ライセンスとしております。
+
+著作権及びライセンス表示の条件のみで編集・商用利用等が自由に行えるライセンスとなります。
+
+詳細は[こちら][mautic-doc-license]をご参照下さい。
+
+## オリジナル（英語版）について
+オリジナルのドキュメントは下記にて公開されています。
+
+[documentation][mautic-docs]
+
+オリジナルのドキュメントのリポジトリは下記になります。
+
+[original-repository][mautic-docs-github]
+
+<hr>
+Original Readme
+
 # Mautic Documentation
 
 ## Introduction
@@ -35,3 +71,8 @@ Links below
 
 [mautic]: <https://mautic.org/>
 [mautic-github]: <https://github.com/mautic/mautic>
+
+<!--
+Links below for Japanese
+-->
+[mautic-doc-s-github-ja]: <https://github.com/TSKGunGun/mautic-documentation-JP>
