@@ -21,7 +21,7 @@ Mauticの詳細情報を知りたい方、API, WebHook, テーマ, プラグイ�
 
 著作権及びライセンス表示の条件のみで編集・商用利用等が自由に行えるライセンスとなります。
 
-詳細は[こちら][mautic-doc-license]を参照下さい。
+詳細は[こちら][mautic-doc-license-ja]を参照下さい。
 
 ## オリジナル（英語版）について
 オリジナルのドキュメントは下記にて公開されています。
@@ -77,3 +77,4 @@ Links below
 Links below for Japanese
 -->
 [mautic-doc-s-github-ja]: <https://github.com/TSKGunGun/mautic-documentation-JP>
+[mautic-doc-license-ja]: <https://github.com/TSKGunGun/mautic-documentation-JP/blob/master/LICENSE>
